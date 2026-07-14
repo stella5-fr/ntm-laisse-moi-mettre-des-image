@@ -33,6 +33,9 @@
         ],
         "BG_BASE_TERTIARY": [
             "#040405"
+		],
+		"BACKGROUND_BASE_LOWEST": [
+		    "#0E0E0F"
         ],
         "BG_BASE_PRIMARY": [
             "#09090A"
