@@ -2,14 +2,13 @@
   "name": "nibard ouaf ouaf",
   "description": "sinj kiffer gros nibard ouaf ouaf",
   "authors": [
-
       {
           "name": "ft.vodka",
           "id": "1068030255455015013"
         
       }
   ],
-		"semanticColors": {
+	"semanticColors": {
         "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
             "#0E0E0F"
         ],
