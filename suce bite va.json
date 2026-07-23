@@ -8,7 +8,7 @@
         
       }
   ],
-	"semanticColors": {
+		"semanticColors": {
         "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
             "#0E0E0F"
         ],
@@ -191,7 +191,7 @@
     "plus": {
         "version": 0,
         "mentionLineColor": "#eef2fb"
-    }
+    },
 
 "fonts":{
   "ABCGintoNord-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
